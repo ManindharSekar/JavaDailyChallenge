@@ -7,17 +7,15 @@ public class FindOddOrEven_Day02 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		int n=37;
-		switch(n%2){
+
+		int n = 37;
+		switch (n % 2) {
 		case 0:
-			System.out.println("Given number "+n+" is even");
+			System.out.println("Given number " + n + " is even");
 			break;
 		case 1:
-			System.out.println("Given number "+n+" is odd");
+			System.out.println("Given number " + n + " is odd");
 			break;
 		}
-
 	}
-
 }
