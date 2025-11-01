@@ -2,8 +2,10 @@ package com.java_programs;
 
 public class PrintPrimeAndAverage_08 {
 
-	/**
-	 * @param args
+	/*
+	 * Program: 1 to 100 prime numbers and Calculate Average 
+	 * Day: 08 
+	 * Added on: 31-Oct-2025
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
