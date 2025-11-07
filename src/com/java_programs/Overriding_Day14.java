@@ -14,7 +14,7 @@ class B11 extends A7 {
 
 public class Overriding_Day14 {
 
-	// Program: write a program to implement overriding concept?
+	// Program: write a program to implement overriding concept?:
 	// Day: 14
 	// Added on: 6-Nov-2025
 	public static void main(String[] args) {
