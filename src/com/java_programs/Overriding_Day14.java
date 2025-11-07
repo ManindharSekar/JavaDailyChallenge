@@ -14,9 +14,9 @@ class B11 extends A7 {
 
 public class Overriding_Day14 {
 
-	// Program: SORT ARRAY AND MERGE ARRAY
-	// Day: 12
-	// Added on: 4-Nov-2025
+	// Program: write a program to implement overriding concept?
+	// Day: 14
+	// Added on: 6-Nov-2025
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		B11 b = new B11();

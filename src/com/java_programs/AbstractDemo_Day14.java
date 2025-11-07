@@ -16,9 +16,9 @@ class B12 extends A12 {
 
 public class AbstractDemo_Day14 {
 
-	// Program: SORT ARRAY AND MERGE ARRAY
-	// Day: 12
-	// Added on: 4-Nov-2025
+	// Program: ABSTRACT CONCEPT
+	// Day: 14
+	// Added on: 6-Nov-2025
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		B12 o = new B12();
