@@ -2,7 +2,7 @@ package com.java_programs;
 
 import java.util.Arrays;
 
-public class CompareArrays {
+public class CompareArrays_Day17 {
 
 	// Program: compare two arrays
 	// Day: 17
