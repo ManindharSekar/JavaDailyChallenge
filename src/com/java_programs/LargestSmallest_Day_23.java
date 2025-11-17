@@ -2,7 +2,7 @@ package com.java_programs;
 
 public class LargestSmallest_Day_23 {
 
-	// Program: 46.FIND LARGEST AND SMALLEST NUMBER IN ARRAY WITHOUT USING
+	// Program: FIND LARGEST AND SMALLEST NUMBER IN ARRAY WITHOUT USING
 	// SORTING METHOD
 	// Day: 23
 	// Added on: 16-Nov-2025
