@@ -2,9 +2,9 @@ package com.java_programs;
 
 public class SeriesLPattern_Day30 {
 
-	/**
-	 * @param args
-	 */
+	// Program: print numbers series L pattern
+		// Day: 30
+		// Added on: 12-Dec-2025
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a=0;
