@@ -6,7 +6,7 @@ public class FindDuplicateInArray {
 
 	// Program: FIND DuplicteInArray
 	// Day: 30
-	// Added on: 118-Dec-2025
+	// Added on: 18-Dec-2025
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
