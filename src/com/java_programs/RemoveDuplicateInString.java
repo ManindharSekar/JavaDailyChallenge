@@ -1,6 +1,5 @@
 
 package com.java_programs;
-import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
 
 public class RemoveDuplicateInString {
