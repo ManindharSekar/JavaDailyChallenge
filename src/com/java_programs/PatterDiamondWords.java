@@ -1,10 +1,10 @@
 package com.java_programs;
 
 public class PatterDiamondWords {
-	
-	// Program: Diamond  Pattern ALLAHABAD
-		// Day: 32
-		// Added on: 19-Dec-2025
+
+	// Program: Diamond Pattern ALLAHABAD
+	// Day: 32
+	// Added on: 19-Dec-2025
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
